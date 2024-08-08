@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Polancosky
-- 👀 Estoy interesado en la programación y la mecatrónica :)
-- 🌱 Me encuentro estudiando Ingenieria Civil 
+- 👀 Estoy interesado en la programación, la computación y la mecatrónica :)
+- 🗿 Me encuentro estudiando Ingenieria Civil en Computación
 
 <!---
 Polancosky/Polancosky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
